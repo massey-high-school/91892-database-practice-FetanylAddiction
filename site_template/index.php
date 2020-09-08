@@ -1,4 +1,4 @@
-     
+<?php include("topbit.php") ?>     
             
         <div class="box main">
             <h2>Welcome</h2>
